@@ -1,16 +1,26 @@
 # flash_chat
 
 A chatting app
+Functionalities the app have:
+-animated ui
+-register/login
+-different ui of message for sender and reciever
+-timestamp using datetime class
 
-## Getting Started
+***********Welcome Screen************
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/85575373/224558920-3d6fe3cf-5e9c-4f7b-98ea-125f88074986.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**********Register Page***********
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/85575373/224559109-3176fa22-48ab-470c-ab5d-5aca3e3851a6.png)
+
+**********Login Page**************
+
+![image](https://user-images.githubusercontent.com/85575373/224559194-da09d437-761d-4d16-a87c-f71754a7e543.png)
+
+**********Chat Screen**************
+
+![image](https://user-images.githubusercontent.com/85575373/224559683-ae777b59-1750-4289-a6b9-ae10e1b1ec2e.png)
+
