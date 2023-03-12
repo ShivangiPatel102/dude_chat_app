@@ -1,4 +1,4 @@
-# flash_chat
+# dude_chat
 
 A chatting app
 Functionalities the app have:
